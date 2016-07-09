@@ -13,3 +13,14 @@
 # cat < file2
 # cat file1 file2 file3 > file4
 # cat file1 file2 file3 | sort > file4
+# cd path/to/location
+# cd ..
+# cd .
+# cd
+# cd ~
+# cd ~username
+# cd -p path
+# cd -n path
+# cd -v path
+# cd -
+# cd -l path

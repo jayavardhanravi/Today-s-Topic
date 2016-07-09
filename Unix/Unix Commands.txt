@@ -1,1 +1,15 @@
-test
+/* 'cat' command  */
+# cat /home/jay/filename
+# cat file1 file2
+# cat >file1
+# cat file1.txt | more
+# cat file1.txt | less
+# cat -n file1.txt
+# cat -e file1.txt
+# cat -T file1.txt
+# cat file1.txt; cat file2.txt; cat file3.txt
+# cat file1 > file2
+# cat file1 >> file2
+# cat < file2
+# cat file1 file2 file3 > file4
+# cat file1 file2 file3 | sort > file4

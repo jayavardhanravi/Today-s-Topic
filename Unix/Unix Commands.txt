@@ -24,3 +24,20 @@
 # cd -v path
 # cd -
 # cd -l path
+# chgrp [option] group filesystemobject 
+# chgrp -R groupname filenameorlist
+# chgrp -v groupname filenameorlist
+# chgrp -f groupname filenameorlist
+# chgrp -c groupname filenameorlist 
+# chgrp groupname filenameorlist --changes
+# chgrp -f groupname filenameorlist 
+# chgrp groupname filenameorlist --silent 
+# chgrp groupname filenameorlist --quiet
+# chgrp groupname filnameorlist --dereference
+# chgrp -h groupname filenameorlist 
+# chgrp groupname filenameorlist --no-dereference
+# chgrp groupname filenameorlist --no-preserve-root
+# chgrp groupname filenameorlist --preserve-root
+# chgrp --reference=RFILE filenameorlist
+# chgrp -L groupname filenameorlist
+# chgrp -p groupname filenameorlist

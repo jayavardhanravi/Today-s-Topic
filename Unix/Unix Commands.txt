@@ -25,6 +25,9 @@
 # cd -
 # cd -l path
 # chgrp [option] group filesystemobject 
+# chmod options permissions filename
+# chmod u=rwx,g=rx,o=r filename
+# chmod 754 filename
 # chgrp -R groupname filenameorlist
 # chgrp -v groupname filenameorlist
 # chgrp -f groupname filenameorlist
